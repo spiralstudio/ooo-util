@@ -10,7 +10,7 @@
   <groupId>com.threerings</groupId>
   <artifactId>ooo-util</artifactId>
   <packaging>jar</packaging>
-  <version>1.5-SNAPSHOT</version>
+  <version>2.0.0</version>
 
   <name>ooo-util</name>
   <description>A place for OOO utilities.</description>
@@ -67,8 +67,8 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.1</version>
         <configuration>
-          <source>1.6</source>
-          <target>1.6</target>
+          <source>1.8</source>
+          <target>1.8</target>
           <fork>true</fork>
           <showDeprecation>true</showDeprecation>
           <showWarnings>true</showWarnings>
