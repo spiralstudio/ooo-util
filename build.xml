@@ -1,5 +1,5 @@
 <?xml version="1.0" standalone="yes"?>
-<project name="ooo-user" default="compile" basedir=".">
+<project name="ooo-util" default="compile" basedir=".">
   <property name="src.dir" location="src/main/java"/>
   <property name="deploy.dir" location="target"/>
   <property name="classes.dir" location="${deploy.dir}/classes"/>
